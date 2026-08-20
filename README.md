@@ -1,25 +1,12 @@
 <div align="center">
 
-# hello! welcome to my page!
+<br/>
 
-<!-- Clean Animated Typing Subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=450&lines=Welcome+to+my+profile!;Building+software+%26+learning+new+tech.;Check+out+my+projects+below." alt="Typing SVG" />
+<!-- Animated Neon Blue Typing Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=hello!+welcome+to+my+page!+✨;welcome+to+my+little+corner+of+github+🚀;turning+caffeine+into+code+☕;breaking+things...+then+fixing+them+🛠️;thanks+for+stopping+by!+👋" alt="Typing SVG" />
+</a>
 
----
-
-</div>
-
-### 🚀 About Me
-
-- 💻 Passionate about coding and building interactive projects.
-- 🌱 Currently learning and exploring new technologies.
-- 🔗 Check out my [Animated Welcome Page](https://91licht.github.io/animated-welcome-page/).
-
----
-
-<div align="center">
-
-<!-- Minimal Streak / Activity Tracker -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=91licht&theme=transparent&hide_border=true&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+<br/><br/>
 
 </div>
